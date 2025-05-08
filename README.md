@@ -103,7 +103,3 @@ This study introduces the TSM-R1 framework, which leverages multimodal data and 
 ## Future Work
 
 Future research will address the limitations in demographic representation and enhance the model's ability to handle cross-cultural and cross-socioeconomic variability. Additionally, privacy-preserving alternatives like federated learning will be explored for data protection in real-time applications.
-
----
-
-Feel free to modify this template based on specific requirements or add additional sections like "Contributing" or "License" if necessary.
